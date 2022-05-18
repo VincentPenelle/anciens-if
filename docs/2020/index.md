@@ -29,5 +29,5 @@ title: Promo 2018-2020
 
 ## Claire Soyez-Martin
 
-* Stage 2020 dans [l’équipe Links du laboratoire CRISTAL de l’université de Lille](https://www.cristal.univ-lille.fr/equipes/links/) avec [Florent Capelli](http://florent.capelli.me/|).
+* Stage 2020 dans [l’équipe Links du laboratoire CRISTAL de l’université de Lille](https://www.cristal.univ-lille.fr/equipes/links/) avec [Florent Capelli](http://florent.capelli.me/).
 * 2020- ? : Thèse avec [Charles Paperman](https://www.paperman.name/) et [Sylvain Salvati](https://www.cristal.univ-lille.fr/profil/ssalvati/), dans la même équipe. Sujet : «Vectorisation d’automates».
