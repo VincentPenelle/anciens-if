@@ -1,5 +1,5 @@
 ---
-Promo 2017-2019
+title: Promo 2017-2019
 ---
 
 ## Louis Desmoulins
