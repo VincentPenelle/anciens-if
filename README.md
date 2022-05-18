@@ -1,7 +1,7 @@
 # README pour les contributeurs
 
 Vous pouvez soit cloner le dépôt, soit, de manière plus simple, éditer et commiter directement sur le site.
-Il vous suffit d’aller dans le dossier portant comme nom votre année de sortie, et de modifier les informations qui vous concernent (ou de les ajouter le cas échéant).
+Il vous suffit d’aller dans le dossier portant comme nom votre année de sortie (dans le dossier docs), et de modifier les informations qui vous concernent (ou de les ajouter le cas échéant).
 
 C’est du markdown, donc la syntaxe est celle de tout document markdown. En particulier, un lien hypertexte se note avec la syntaxe suivante : \[texte\](lien).
 
