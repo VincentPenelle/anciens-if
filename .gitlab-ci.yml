@@ -1,0 +1,22 @@
+# Generate gitlab pages: https://pt2.gitlabpages.inria.fr/support
+
+# image: orel33/mydebian # package required: pandoc, tree
+image: python:3.8-buster
+
+before_script:
+  - pip install -r requirements.txt
+
+variables:
+  GIT_STRATEGY: clone
+  GIT_DEPTH: "1"
+
+pages:
+  stage: deploy
+  script:
+  - mkdocs build --strict --verbose
+  artifacts:
+    paths:
+    - public
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+
