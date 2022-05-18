@@ -1,4 +1,5 @@
 ---
+title: Accueil
 ---
 
 # Page des anciens élèves du parcours Informatique Fondamentale de l’Université de Bordeaux.
@@ -14,4 +15,4 @@ Les adresses de contact n’apparaissent pas ici (pour éviter les spambots). Co
 * [2017-2019](2019/index.md)
 * [2016-2018](2018/index.md)
 
----
+## [Retour au parcours IF](https://masterinfo.emi.u-bordeaux.fr/wiki/doku.php?id=if)
