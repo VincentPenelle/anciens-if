@@ -9,4 +9,6 @@ title: Promo 2016-2018
 ## Virgile Robles
 
 [Page professionnelle](https://firobe.fr)
-* 2018 - ? : Thèse au [laboratoire de sûreté et de sécurité des logiciels](http://www-list.cea.fr/recherche-technologique/programmes-de-recherche/systemes-embarques/validation-et-verification) du CEA de Saclay, avec [Nikolaï Kosmatov](https://nikolai-kosmatov.eu/) sur la «spécification et vérification de propriétés de haut niveau pour les programmes C». La thèse vise à étendre le langage de spécification ACSL utilisé par [Frama-C](https://www.frama-c.com). 
+* 2018 - 2022 : Thèse au [laboratoire de sûreté et de sécurité des logiciels](http://www-list.cea.fr/recherche-technologique/programmes-de-recherche/systemes-embarques/validation-et-verification) du CEA de Saclay, avec [Nikolaï Kosmatov](https://nikolai-kosmatov.eu/) sur la «spécification et vérification de propriétés de haut niveau pour les programmes C». La thèse vise à étendre le langage de spécification ACSL utilisé par [Frama-C](https://www.frama-c.com).
+
+* 2022 - ? : Ingénieur chez [Tweag](https://www.tweag.io/), entreprise de consultants en Informatique spécialisés dans la "haute confiance" : application de techniques de programmations fonctionnelles et de méthodes formelles sur des logiciels au sein de clients. Je travaille aussi sur des projets internes contribuants à l'open-source, tels que des projets dans l'écosystème OCaml ou Haskell.
