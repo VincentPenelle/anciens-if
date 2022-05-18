@@ -1,0 +1,10 @@
+body {
+    word-wrap: break-word;
+}
+
+img {
+    max-width: 100%;
+    /* centering */
+    display: block;
+    margin: auto;
+}
