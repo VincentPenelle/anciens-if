@@ -1,4 +1,6 @@
-# Promo 2016-2018
+---
+title: Promo 2016-2018
+---
 
 ## Raphaël Gaudry
 
