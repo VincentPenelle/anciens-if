@@ -12,25 +12,4 @@ Et si vous pensez à mettre à jour vos infos quand vous avez des choses à rajo
 
 Merci.
 
-Et si vous voulez construire le site chez vous, je laisse la documentation originelle ci-dessous.
 
-## Documentation
-
-* https://www.mkdocs.org/
-* https://squidfunk.github.io/mkdocs-material/
-
-## Installation
-
-```bash
-sudo apt install mkdocs
-# or
-sudo pip3 install mkdocs # to get a more recent version
-```
-
-## Site Generator
-
-```bash
-mkdocs build
-```
-
----
