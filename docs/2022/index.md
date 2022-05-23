@@ -15,3 +15,7 @@ title: Promo 2020-2022
 
 * 2021: Stage M1 à l'[ENS de Lyon](http://www.ens-lyon.fr/LIP/MC2/) avec [Nicolas Schabanel](http://perso.ens-lyon.fr/nicolas.schabanel/).
 * 2022: Stage M2 au [LaBRI](https://www.labri.fr/) avec [Cyril Gavoille](https://dept-info.labri.fr/~gavoille/) sur les graphes universels induits et l'étiquetage d'adjacence. 
+
+## Kévin Elie
+
+* 2022: Stage à [Gertrude SAEM](http://www.gertrude.fr/) dans le développement de systèmes de feux de signalisation intelligents.
