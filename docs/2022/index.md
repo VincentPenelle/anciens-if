@@ -10,3 +10,8 @@ title: Promo 2020-2022
 
 * 2022: stage à [Verimag](https://www-verimag.imag.fr) à Grenoble dans le domaine des Algorithmes Distribués Auto-Stabilisants en lien avec le simulateur [SaSa](https://verimag.gricad-pages.univ-grenoble-alpes.fr/synchrone/sasa/).
 * 2022: tentative concours CAPES en candidat libre
+
+## Amaury Jacques
+
+* 2021: Stage M1 à l'[ENS de Lyon](http://www.ens-lyon.fr/LIP/MC2/) avec [Nicolas Schabanel](http://perso.ens-lyon.fr/nicolas.schabanel/).
+* 2022: Stage M2 au [LaBRI](https://www.labri.fr/) avec [Cyril Gavoille](https://dept-info.labri.fr/~gavoille/) sur les graphes universels induits et l'étiquetage d'adjacence. 
