@@ -22,4 +22,4 @@ title: Promo 2020-2022
 
 ## Jean Crabos
 
-* 2022: Stage M2 au [LaBRI](https://www.labri.fr/) avec [Cyril Gavoille](https://www.labri.fr/profil/Hocquard_ID1208167075), [Julien Bensmail](https://www.labri.fr/profil/Bensmail_ID1314965628) et [Dimitri Lajou](https://www.labri.fr/profil/Lajou_ID1536827621) sur la coloration forte d'arêtes dans un graphe 4-régulier.
+* 2022: Stage M2 au [LaBRI](https://www.labri.fr/) avec [Cyril Gavoille](https://www.labri.fr/profil/Hocquard_ID1208167075), [Julien Bensmail](https://www.labri.fr/profil/Bensmail_ID1314965628) et [Dimitri Lajou](https://www.labri.fr/profil/Lajou_ID1536827621) sur la coloration forte d'arêtes dans les graphes 4-réguliers.
