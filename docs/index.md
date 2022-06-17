@@ -16,4 +16,4 @@ Les adresses de contact n’apparaissent pas ici (pour éviter les spambots). Co
 * [2017-2019](2019/index.md)
 * [2016-2018](2018/index.md)
 
-## [Retour au parcours IF](https://masterinfo.emi.u-bordeaux.fr/wiki/doku.php?id=if)
+## [Retour au parcours IF](https://vpenelle.pages.emi.u-bordeaux.fr/parcours-if)
