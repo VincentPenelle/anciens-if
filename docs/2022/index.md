@@ -23,3 +23,8 @@ title: Promo 2020-2022
 ## Jean Crabos
 
 * 2022: Stage M2 au [LaBRI](https://www.labri.fr/) avec [Cyril Gavoille](https://www.labri.fr/profil/Hocquard_ID1208167075), [Julien Bensmail](https://www.labri.fr/profil/Bensmail_ID1314965628) et [Dimitri Lajou](https://www.labri.fr/profil/Lajou_ID1536827621) sur la coloration forte d'arêtes dans les graphes 4-réguliers.
+
+## [Pierre-Antoine Rouby](https://parouby.fr/)
+
+* 2021: Stage M1 a l'[Inria Bordeaux Sud-Ouest](https://www.inria.fr/fr/centre-inria-de-luniversite-de-bordeaux) avec [Emmanuelle Saillard](http://emmanuellesaillard.fr/) sur le portage de [PARCOACH](https://github.com/parcoach/parcoach) sur LLVM-12. 
+* 2022: Stage M2 a l'[Inria Bordeaux Sud-Ouest](https://www.inria.fr/fr/centre-inria-de-luniversite-de-bordeaux) avec [Emmanuelle Saillard](http://emmanuellesaillard.fr/) et [Martin Quinson](https://people.irisa.fr/Martin.Quinson/) sur l'extention de [MBI](https://gitlab.com/MpiBugsInitiative) pour les erreurs hazards.
