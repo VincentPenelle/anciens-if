@@ -4,22 +4,29 @@ title: Promo 2020-2022
 
 ## Benjamin Moro
 
-* 2022: stage à l'[ONERA](https://www.onera.fr/fr) à Toulouse sur la [vérification automatique de systèmes distribués](https://w3.onera.fr/stages/sites/w3.onera.fr.stages/files/dtis-2022-47.pdf).
+* 2022 : stage à l'[ONERA](https://www.onera.fr/fr) à Toulouse sur la [vérification automatique de systèmes distribués](https://w3.onera.fr/stages/sites/w3.onera.fr.stages/files/dtis-2022-47.pdf).
+* 2022 - ... : ingénieur consultant chez [Alten](https://www.alten.fr/) dans les méthodes formelles (et particulièrement la méthode B). L'objectif est de travailler sur l'ensemble de l'aspect sûreté d'un nouveau système [CBTC](https://fr.wikipedia.org/wiki/Communication_based_train_control) (le système gérant la plupart des métros automatiques).
 
 ## Théo Hollender
 
-* 2022: stage à [Verimag](https://www-verimag.imag.fr) à Grenoble dans le domaine des Algorithmes Distribués Auto-Stabilisants en lien avec le simulateur [SaSa](https://verimag.gricad-pages.univ-grenoble-alpes.fr/synchrone/sasa/).
-* 2022: tentative concours CAPES en candidat libre
+* 2022 : stage à [Verimag](https://www-verimag.imag.fr) à Grenoble dans le domaine des Algorithmes Distribués Auto-Stabilisants en lien avec le simulateur [SaSa](https://verimag.gricad-pages.univ-grenoble-alpes.fr/synchrone/sasa/).
+* 2022 : tentative concours CAPES en candidat libre
 
 ## Amaury Jacques
 
-* 2021: Stage M1 à l'[ENS de Lyon](http://www.ens-lyon.fr/LIP/MC2/) avec [Nicolas Schabanel](http://perso.ens-lyon.fr/nicolas.schabanel/).
-* 2022: Stage M2 au [LaBRI](https://www.labri.fr/) avec [Cyril Gavoille](https://dept-info.labri.fr/~gavoille/) sur les graphes universels induits et l'étiquetage d'adjacence. 
+* 2021 : Stage M1 à l'[ENS de Lyon](http://www.ens-lyon.fr/LIP/MC2/) avec [Nicolas Schabanel](http://perso.ens-lyon.fr/nicolas.schabanel/).
+* 2022 : Stage M2 au [LaBRI](https://www.labri.fr/) avec [Cyril Gavoille](https://dept-info.labri.fr/~gavoille/) sur les graphes universels induits et l'étiquetage d'adjacence. 
+* 2022 - 2025: Thèse au [LaBRI](https://www.labri.fr/) avec [Cyril Gavoille](https://dept-info.labri.fr/~gavoille/) intitulée *Complexité paramétrique pour les schémas d’étiquetage*.
 
 ## Kévin Elie
 
-* 2022: Stage à [Gertrude SAEM](http://www.gertrude.fr/) dans le développement de systèmes de feux de signalisation intelligents.
+* 2022 : Stage à [Gertrude SAEM](http://www.gertrude.fr/) dans le développement de systèmes de feux de signalisation intelligents.
 
 ## Jean Crabos
 
-* 2022: Stage M2 au [LaBRI](https://www.labri.fr/) avec [Herve Hocquard](https://www.labri.fr/profil/Hocquard_ID1208167075), [Julien Bensmail](https://www.labri.fr/profil/Bensmail_ID1314965628) et [Dimitri Lajou](https://www.labri.fr/profil/Lajou_ID1536827621) sur la coloration forte d'arêtes dans les graphes 4-réguliers.
+* 2022 : Stage M2 au [LaBRI](https://www.labri.fr/) avec [Hervé Hocquard](https://www.labri.fr/profil/Hocquard_ID1208167075), [Julien Bensmail](https://www.labri.fr/profil/Bensmail_ID1314965628) et [Dimitri Lajou](https://www.labri.fr/profil/Lajou_ID1536827621) sur la coloration forte d'arêtes dans les graphes 4-réguliers.
+
+## [Pierre-Antoine Rouby](https://parouby.fr/)
+
+* 2021 : Stage M1 a l'[Inria Bordeaux Sud-Ouest](https://www.inria.fr/fr/centre-inria-de-luniversite-de-bordeaux) avec [Emmanuelle Saillard](http://emmanuellesaillard.fr/) sur le portage de [PARCOACH](https://github.com/parcoach/parcoach) sur LLVM-12. 
+* 2022 : Stage M2 a l'[Inria Bordeaux Sud-Ouest](https://www.inria.fr/fr/centre-inria-de-luniversite-de-bordeaux) avec [Emmanuelle Saillard](http://emmanuellesaillard.fr/) et [Martin Quinson](https://people.irisa.fr/Martin.Quinson/) sur l'extention de [MBI](https://gitlab.com/MpiBugsInitiative) pour les erreurs hazards.
