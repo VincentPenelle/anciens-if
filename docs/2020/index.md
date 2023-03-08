@@ -4,7 +4,8 @@ title: Promo 2018-2020
 
 ## Claire Hilaire
 
-* Stage, puis Thèse (2020 - ?) au LaBRI, dans l’équipe Combalgo, thème graphes et optimisation, sur la définition et recherche d’étiquetage minimal des sommets d’un graphe encodant une information sur le graphe.
+* [Page Professionelle](https://www.labri.fr/perso/chilaire/)
+* Stage, puis Thèse (2020 - ?) au LaBRI avec [Cyril Gavoille](https://dept-info.labri.fr/~gavoille/) et [Marthe Bonamy](https://www.labri.fr/perso/mbonamy/), dans le département Combalgo, équipes "graphe et optimisation" et "algorithmes distribués", sur la définition et recherche d’étiquetage minimal des sommets d’un graphe encodant une information sur le graphe.
 
 ## Arthur Jaquard
 
