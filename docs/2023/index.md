@@ -10,5 +10,6 @@ title: Promo 2021-2023
 
 ## [Romain Delpy](https://www.labri.fr/perso/rdelpy/index.html)
 
+* 2022 : Stage M1 au [LaBRI](https://www.labri.fr) (Université de Bordeaux). Tuteurs : [Anca Muscholl](https://www.labri.fr/perso/anca/) & [Corto Mascle](https://corto-mascle.github.io/). Sujet : Algorithms for controller synthesis on distributed lock sharing systems.
 * 2023 : Stage M2 au [LaBRI](https://www.labri.fr) (Université de Bordeaux). Tuteurs : [Anca Muscholl](https://www.labri.fr/perso/anca/) & [Grégoire Sutre](https://www.labri.fr/perso/sutre/). Sujet : Analysis and verification of concurrent programs under mailbox semantics ([rapport](https://www.labri.fr/perso/rdelpy/documents/internship.pdf)).
-* 2023 - 2026 : Thèse au au [LaBRI](https://www.labri.fr). Sujet : Verification of message passing systems under asynchronous semantics applied to Rust programs. Encadrants : [Anca Muscholl](https://www.labri.fr/perso/anca/) & [Grégoire Sutre](https://www.labri.fr/perso/sutre/).
+* 2023 - 2026 : Thèse au au [LaBRI](https://www.labri.fr) (Université de Bordeaux). Sujet : Verification of message passing systems under asynchronous semantics applied to Rust programs. Encadrants : [Anca Muscholl](https://www.labri.fr/perso/anca/) & [Grégoire Sutre](https://www.labri.fr/perso/sutre/).
