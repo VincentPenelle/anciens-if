@@ -10,6 +10,7 @@ Les adresses de contact n’apparaissent pas ici (pour éviter les spambots). Co
 
 ## Les promos
 
+* [2022-2024](2024/index.md)
 * [2021-2023](2023/index.md)
 * [2020-2022](2022/index.md)
 * [2019-2021](2021/index.md)
