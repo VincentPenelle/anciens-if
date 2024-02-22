@@ -20,3 +20,10 @@ title: Promo 2021-2023
 * 2022: Stage de M1 à Rokken (start-up) au Japon. Optimisation CPU et GPU pour un programme de visualisation 3D d'assistance aux opérations chirurgicales.
 * 2023: Stage de M2 au [LaBRI](https://www.labri.fr/) en théorie des graphes (les graphes universels isométriques). Tuteurs de stage: François DROSS et Cyril GAVOILLE. 
 * 2023-2026: Thèse au [LaBRI](https://www.labri.fr/) en théorie des graphes dans la continuité du dernier stage, avec pour thème: les graphes universels isométriques et leur variantes. Directeur de thèse: François DROSS. Financement: Bourse blanche (EDMI).
+
+
+## Natacha Javerzat
+
+* 2022 : Stage M1 au [LaBRI](https://www.labri.fr) (Université de Bordeaux). Implémentation de l’algorithme de Jensen pour l’énumération des Méandres. Stage encadré par [Vincent Delecroix][https://www.labri.fr/perso/vdelecro/].
+* 2023 : Stage M2 chez [Atoptima][https://atoptima.com/] (start-up, Bordeaux). Contribution au développement et à la maintenance de [Coluna][https://atoptima.github.io/Coluna.jl/latest/], un framework open-source pour l'implémentation d'algorithmes d'optimisation. Stage encadré par Guillaume Marques. 
+* 2023-2026 : Thèse au sein de l'équipe Inria [MOSAIC][https://www.inria.fr/en/mosaic] (laboratoire [Reproduction et Développement des Plantes][https://www.ens-lyon.fr/RDP/?lang=fr], ENS de Lyon) sous la direction de [Romain Azaïs][http://perso.ens-lyon.fr/romain.azais/] et co-encadrée par [Benoit Henry][https://www.bhenry.fr/contact.html] (Université de Lille). Le sujet de thèse consiste en la conception et l'implémentation de nouveaux algorithmes pour la simulation de modèles sur réseau (ex : modèle de Potts cellulaire, modèle ferromagnétique d'Ising) et est à la croisée de nombreuses disciplines (combinatoire, probabilités, théorie des graphes principalement). 
