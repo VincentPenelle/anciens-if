@@ -8,14 +8,45 @@ title: Promo 2021-2023
 * 2023 : Stage M2 au [LaBRI](https://www.labri.fr/). Tuteurs : [Antoine Rollet](https://www.labri.fr/perso/rollet/) et [Omer Nguena](https://uqo.ca/profil/ngueom01). Sujet : Graphes temporels/dynamiques, model checking et réseaux de neurones.
 * 2023 - 2026 : Thèse. Sujet : Méthodes formelles pour la conception de systèmes robotiques robustes. Lieux : [LaBRI](https://www.labri.fr/), [ONERA](https://www.onera.fr/fr). Encadrants : David Doose, [Olivier Ly](https://www.labri.fr/perso/ly/), [Frédéric Herbreteau](https://www.labri.fr/perso/herbrete/)
 
+## [Émile Rolley](https://github.com/EmileRolley)
 
-## Émile Rolley
+- 2022 : Stage M1 dans l'équipe [PROSECCO](https://team.inria.fr/prosecco/)
+(INRIA Paris) dans le cadre du projet [Catala](https://catala-lang.org/), un
+DSL pour l'implémentation correcte de la loi en code. 
+    - Implémentation d'un outils de visualisation et de la trace d'exécution d'un
+    programme Catala.
+    - Extension du compilateur pour automatiser la génération de simulateurs
+    web à partir d'un programme Catala.
+- 2022 - 2024 : Mission freelance sur le projet [Nos Gestes
+Climat](https://nosgestesclimat.fr), le calculateur d'empreinte carbone
+individuelle de l'[Agence de la transition écologique](https://ademe.fr)
+(ADEME), développé au sein de l'[Accélérateur de la
+transition](https://beta.gouv.fr/startups/?incubateur=ademe). [TJM 400€ /
+full remote / 3-4j semaine]
+    - Implémentation et maintenance de l'outillage du [modèle de
+    calcul](https://github.com/incubateur-ademe/nosgestesclimat).
+    - Implémentation d'[outils](https://github.com/publicodes/tools) pour 
+    [Publicodes](https://publi.codes/), le langage dans lequel est implémenté
+    le modèle de calcul. Notamment en ajoutant une passe de _constant folding_
+    et d'un système d'import. 
+    - Internationalisation du site et du modèle de calcul.
 
-- 2022 : stage de M1 sur l'explicabilité individuelle, automatisée et intelligible de la trace de calcul de programme Catala. [Catala](https://catala-lang.org/) est DSL pour la traduction de la loi en code, développé au sein de l'équipe [PROSECCO](https://team.inria.fr/prosecco/) de l'INRIA Paris. 
-- 2022 - présent : développeur indépendant sur le projet [nosgesteclimat.fr](https://nosgestesclimat.fr). C'est le calculateur d'empreinte carbone individuelle de l'ADEME, développé au sein de l'[Accélérateur de la transition](https://beta.gouv.fr/startups/?incubateur=ademe). Fonctionnement agile où chaque membre de l'équipe endosse différentes responsabilités, mais je suis principalement responsable de l'outillage autour du modèle de calcul et de [Publicodes](https://publi.codes/), le langage dans lequel il est implémenté. [TJM de 400€ / full remote]
-- 2023 - présent : développeur indépendant sur la génération automatisée d'explications individuelle de programme [Catala](https://catala-lang.org/). Mission financée par le [Pôle logiciels libres](https://www.etalab.gouv.fr/accompagnement-logiciels-libres/) d'Etalab. [TJM de 650€ (lissé pour atteindre 400€) / full remote]
+- 2023 - 2024 : Mission freelance sur le projet
+[Catala](https://catala-lang.org/). Mission financée par le [Pôle logiciels
+libres](https://www.etalab.gouv.fr/accompagnement-logiciels-libres/) de la
+[Direction Interministérielle du
+Numérique](https://www.numerique.gouv.fr/dinum/). [TJM 650€ / full remote /
+2j semaine]
+    - Implémentation d'un [prototype](https://code.gouv.fr/demos/catala/) sur
+    la génération automatisée, individuelle et intelligible d'explications de
+    calculs effectués par un algorithme public. Le résultat du travail est
+    disponible dans ce [rapport de
+    recherche](https://inria.hal.science/hal-04391612).
 
-> NOTE : je travail exclusivement sur des projets open-source, tout ce que je fait est donc disponible sur [GitHub](https://github.com/EmileRolley).
+> Je travail exclusivement sur des projets open-source, tout ce que je fait est
+> donc disponible sur [GitHub](https://github.com/EmileRolley).
+> A noter également que j'ai choisi de ne pas poursuivre en M2, je suis donc
+> pas diplômé de l'Université de Bordeaux.
 
 ## [Romain Delpy](https://www.labri.fr/perso/rdelpy/index.html)
 
@@ -30,9 +61,8 @@ title: Promo 2021-2023
 * 2023: Stage de M2 au [LaBRI](https://www.labri.fr/) en théorie des graphes (les graphes universels isométriques). Tuteurs de stage: François DROSS et Cyril GAVOILLE. 
 * 2023-2026: Thèse au [LaBRI](https://www.labri.fr/) en théorie des graphes dans la continuité du dernier stage, avec pour thème: les graphes universels isométriques et leur variantes. Directeur de thèse: François DROSS. Financement: Bourse blanche (EDMI).
 
-
 ## Natacha Javerzat
 
-* 2022 : Stage M1 au [LaBRI](https://www.labri.fr) (Université de Bordeaux). Implémentation de l’algorithme de Jensen pour l’énumération des Méandres. Stage encadré par [Vincent Delecroix][https://www.labri.fr/perso/vdelecro/].
+* 2022 : Stage M1 au [LaBRI](https://www.labri.fr) (Université de Bordeaux). Implémentation de l’algorithme de Jensen pour l’énumération des Méandres. Stage encadré par [Vincent Delecroix](https://www.labri.fr/perso/vdelecro/).
 * 2023 : Stage M2 chez [Atoptima](https://atoptima.com/) (start-up, Bordeaux). Contribution au développement et à la maintenance de [Coluna](https://atoptima.github.io/Coluna.jl/latest/), un framework open-source pour l'implémentation d'algorithmes d'optimisation. Stage encadré par Guillaume Marques. 
 * 2023-2026 : Thèse au sein de l'équipe Inria [MOSAIC](https://www.inria.fr/en/mosaic) (laboratoire [Reproduction et Développement des Plantes](https://www.ens-lyon.fr/RDP/?lang=fr), ENS de Lyon) sous la direction de [Romain Azaïs](http://perso.ens-lyon.fr/romain.azais/) et co-encadrée par [Benoit Henry](https://www.bhenry.fr/contact.html) (Université de Lille). Le sujet de thèse consiste en la conception et l'implémentation de nouveaux algorithmes pour la simulation de modèles sur réseau (ex : modèle de Potts cellulaire, modèle ferromagnétique d'Ising) et est à la croisée de nombreuses disciplines (combinatoire, probabilités, théorie des graphes principalement). 
