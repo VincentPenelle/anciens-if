@@ -2,7 +2,7 @@
 title: Accueil
 ---
 
-# Page des anciens élèves du parcours Informatique Fondamentale de l’Université de Bordeaux.
+# Page des anciens élèves du parcours Algorithms, Models and Verification (anciennement Informatique Fondamentale) de l’Université de Bordeaux.
 
 Sur cette page, vous pourrez trouver des informations sur nos anciens élèves qui ont accepté de les partager. Cette page recense leur parcours après le master (et éventuellement leur formation initiale quand cela est pertinent) et donne éventuellement un lien vers leur page professionnelle. Le but est de donner un aperçu par l’exemple de ce à quoi mène le parcours et d’encourager les étudiants actuels à contacter les prédécesseurs dont le parcours les intéresse. 
 
@@ -10,6 +10,7 @@ Les adresses de contact n’apparaissent pas ici (pour éviter les spambots). Co
 
 ## Les promos
 
+* [2024-2026](2026/index.md)
 * [2023-2025](2025/index.md)
 * [2022-2024](2024/index.md)
 * [2021-2023](2023/index.md)
@@ -19,4 +20,4 @@ Les adresses de contact n’apparaissent pas ici (pour éviter les spambots). Co
 * [2017-2019](2019/index.md)
 * [2016-2018](2018/index.md)
 
-## [Retour au parcours IF](https://vpenelle.pages.emi.u-bordeaux.fr/parcours-if)
+## [Retour au parcours AMV](https://vpenelle.pages.emi.u-bordeaux.fr/parcours-if)
