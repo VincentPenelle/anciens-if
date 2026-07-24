@@ -15,3 +15,7 @@ title: Promo 2023-2025
 
 * 2024 : Stage M1 à [HUST](https://hust.edu.vn/en/). Thème : Suivi multi-utilisateurs en milieu clos avec capteurs hétérogènes. Théories des ensembles finis aléatoires.
 * 2025 : Stage M2 chez [Thales AVS France](https://www.thalesgroup.com/fr). Thème : Développement d'outils d'analyse des facteurs humains dans les cockpits.
+
+## Julien Silva Lages
+
+* 2025 : Stage M2 à [Serma](https://www.serma-safety-security.com/) Thème : Vérification de certification Critères Communs à l'aide du model checking (Spin).
